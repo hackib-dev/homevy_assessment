@@ -1,6 +1,6 @@
 import FeatureOne from "@/public/images/featureOne.png";
 import FeatureTwo from "@/public/images/featureTwo.png";
-import FeatureThree from "@/public/images/featureThree.png";
+import FeatureThree from "@/public/images/FeatureThree.png";
 import BlogOne from "@/public/images/blog1.png";
 import BloggerOne from "@/public/images/blogger1.png";
 import BlogTwo from "@/public/images/blog2.png";
