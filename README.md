@@ -31,6 +31,6 @@ yarn dev
 
 [Vercel] (https://homevy_assessment.vercel.app)
 
-## Frontend Figma Design
+## Figma Design
 
 [Figma Design](<https://www.figma.com/file/vTw2aaaGHreAGbtvV3rQoO/Boldo---Edgar-Allan-(Community)?node-id=48%3A377>)
