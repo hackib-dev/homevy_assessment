@@ -29,7 +29,7 @@ yarn dev
 
 ## Live Project URL
 
-[Vercel] (https://homevy_assessment.vercel.app)
+[Vercel] (https://homevy-assessment-dun.vercel.app)
 
 ## Figma Design
 
